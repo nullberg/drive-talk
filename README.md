@@ -10,7 +10,7 @@ It can be a bit tricky to get started with the Google Drive API. This project pr
 
 First you need to obtain a 'credentials.json' file and a 'client_secret.json' file.<br>
 This is possible by enabling the Drive API in this link:<br>
-https://developers.google.com/drive/api/v3/quickstart/python
+https://developers.google.com/drive/api/v3/quickstart/python <br>
 In this process, you can save the 'credentials.json' file.
 
 For the 'client_secret.json' file, go to<br>
