@@ -33,6 +33,7 @@ And then the next time, you simply do this:
 ```python
 dt = drivetalk()
 dt.importCreds('myCreds.pkl')
+# upload/download files, etc
 ```
 
 
